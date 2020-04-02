@@ -2,7 +2,7 @@
 
 Simple dynamic lakeside wallpaper for gnome
 
-The imagery and a template for the .xml files were
+The art and a template for the .xml files were
 taken from an old commit of [this](https://github.com/b1izzard-34/Dynamic-gnome-wallpapers "Original gnome wallpaper repo") github repo
 unfortunately the lakeside art was taken out of the repo so you'll have to look in the early commits to find it.
 
